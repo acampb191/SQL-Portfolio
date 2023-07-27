@@ -14,3 +14,5 @@ Hello! This repository contains examples of SQL I've written for various project
 Click [here](https://practicereports.vetsuccess.com/) to view data visualizations I created using the following credentials
 <br>email: vpi_viewer@gmail.com
 <br>password: Password!
+
+<br><br>Note: all of the SQL behind the visuals was also written by me
